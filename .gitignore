@@ -1,0 +1,6 @@
+# Ignore binary installer files
+*.exe
+
+# System & temporary files
+.DS_Store
+Thumbs.db

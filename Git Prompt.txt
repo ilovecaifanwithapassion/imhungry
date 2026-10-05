@@ -1,0 +1,36 @@
+Buka terminal > Command Prompt
+ketik: cd Documents
+ketik: git clone https://github.com/4mimo-source/productivity-hub.git
+buka Antigravity IDE > Open Folder
+lakukan edit/update project
+
+
+git config --global user.name "Nama Lengkap"
+git config --global user.email "email-yang-terhubung-di-github@email.com"
+
+----------------------------------------------------------------
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https:// ............................ .git
+git push -u origin main
+
+
+----------------------------------------------------------------
+Jika sudah ada repo dan ingin melakuan edit, lakukan ini:
+----------------------------------------------------------------
+
+
+Buka terminal > Command Prompt
+ketik: cd Documents
+ketik: git clone .........
+buka Antigravity IDE > Open Folder
+lakukan edit/update project
+
+git config --global user.name "Nama Lengkap"
+git config --global user.email "email-yang-terhubung-di-github@email.com"
+git add .
+git commit -m "pesan perbaikan atau pembaruan kamu"
+git push
